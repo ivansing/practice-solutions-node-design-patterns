@@ -1,0 +1,16 @@
+{
+  "name": "transform-replace-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "replace-stream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "from2-array": "^0.0.4",
+    "through2": "^4.0.2"
+  }
+}
